@@ -1,0 +1,4 @@
+object/**
+*.exe
+*.out
+.env
